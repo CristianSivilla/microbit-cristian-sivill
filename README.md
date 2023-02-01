@@ -1,31 +1,19 @@
 
 > Open this page at [https://cristiansivilla.github.io/microbit-cristian-sivill/](https://cristiansivilla.github.io/microbit-cristian-sivill/)
 
-## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/cristiansivilla/microbit-cristian-sivill** and import
+Microbit Calcular Una Recta
 
-## Edit this project ![Build status badge](https://github.com/cristiansivilla/microbit-cristian-sivill/workflows/MakeCode/badge.svg)
+Avui he creat un programa amb Microbit que es un hardware de microsoft que es pot programar amb alguns llenguatges entre ells Python que es amb el que he escrit el programa.
 
-To edit this repository in MakeCode.
+![image](https://user-images.githubusercontent.com/77325773/216140784-ef968d12-e9bd-414e-8415-61e133191b99.png)
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/cristiansivilla/microbit-cristian-sivill** and click import
+Imatge del hardware Microbit.
 
-## Blocks preview
 
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
+Microbit te un munt de funcions y de sensors que poden fer portar les teves aplicacions a un hardware extern molt facilment.
+El meu programa consta en calcular la funcio de una recta  3x² + x +1.
 
-![A rendered view of the blocks](https://github.com/cristiansivilla/microbit-cristian-sivill/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+El programa inicia amb un text y una canço que he seleccionat , despres de que hagi sortit el text indicant al usuari de que tracta la aplicació i els pasos que ha de seguir, el usuari fara click en els botons per seleccionar el numero en concret els botons A i B del que vol  fer la operacio, cada click es un numero més es a dir si fas 3 clicks  el valor será 3.
+Finalment el programa et donara el resultat.
